@@ -34,4 +34,5 @@ typechain
 /Truffle/build
 /Truffle/data
 
-_backup
+/_backup
+/frpc
